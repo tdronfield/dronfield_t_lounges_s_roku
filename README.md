@@ -5,7 +5,7 @@ Roku Flashback is a streaming app project designed and built with families in mi
 
 ## Installation
 
-TODO: Describe the installation process
+Download zip or git clone and navigate to directory.
 
 ## Usage
 
@@ -24,6 +24,7 @@ TODO: Describe the installation process
 ## Credits
 
 Taylor Dronfield
+Shannon Lounges
 
 ## License
 
