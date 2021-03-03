@@ -1,4 +1,3 @@
-# Roku Flashback
 ![alt](public/images/roku_light-logo.svg)
 
 ## Description
