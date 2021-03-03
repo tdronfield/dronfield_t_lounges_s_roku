@@ -1,5 +1,7 @@
 # Roku Flashback
 ![alt](public/images/roku_light-logo.svg)
+
+## Description
 Roku Flashback is a streaming app project designed and built with families in mind. It will include a Children's section seperate from a default Adult section. 
 
 
