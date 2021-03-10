@@ -1,0 +1,25 @@
+{
+  "name": "dronfield_t_lounges_s_roku",
+  "version": "1.0.0",
+  "description": "![alt](public/images/roku_light-logo.svg) Roku Flashback is a streaming app project designed and built with families in mind. It will include a Children's section seperate from a default Adult section.",
+  "main": "server.js",
+  "scripts": {
+    "start-server": "nodemon server",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdronfield/dronfield_t_lounges_s_roku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdronfield/dronfield_t_lounges_s_roku/issues"
+  },
+  "homepage": "https://github.com/tdronfield/dronfield_t_lounges_s_roku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
