@@ -1,15 +1,17 @@
-![alt](public/images/roku_light-logo.svg)
+![alt](public/images/Roku_lightlogo.svg)
 
 ## Description
 Roku Flashback is a streaming app project designed and built with families in mind. It will include a Children's section seperate from a default Adult section. 
 
+[Brand Styleguide](https://drive.google.com/file/d/1HOeaPZ0NZ-USLpwpRnezCb2Lfa9up5iJ/view?usp=sharing) 
+[Prototype](https://xd.adobe.com/view/95bdb0c0-47ad-42ce-a507-693f8ee49dae-c0ee/) 
 
 ## Installation
 
 Download zip or git clone and navigate to directory.
 
 ## Usage
-
+TODO
 
 ## Contributing
 
@@ -19,7 +21,6 @@ Download zip or git clone and navigate to directory.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
 
 
 ## Credits
@@ -29,4 +30,4 @@ Shannon Lounges
 
 ## License
 
-MIP
+MIT
