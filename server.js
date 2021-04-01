@@ -16,6 +16,8 @@ app.use((req, res, next) => {
 // use the API route file to handle API routes (/api/users, /api/user/id, etc)
 app.use("/api", require("./routes/api"));
 
+app.use("/ums", require("./routes/ums"));
+
 // Run the app at the PORT 
 app.listen(port, () => {
     console.log(`server is running on ${port}`);
