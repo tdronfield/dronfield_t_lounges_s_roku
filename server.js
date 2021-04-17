@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 //  Sets up a self-contained environment (think - biodome) 
-const port = process.env.PORT || 5050;
+const port = process.env.PORT || 5040;
 
 // this catches every route request - every time location bar changed, function runs
 app.use((req, res, next) => {
